@@ -1,2 +1,2 @@
 # first.demo
-this is my fist git repo. <br> (testing things out)
+this is my first git repo. <br> (testing things out)
